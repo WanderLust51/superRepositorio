@@ -1,1 +1,2 @@
 super archivo
+clon de un repositorio que ya es local pero este es clon del remoto que es local
